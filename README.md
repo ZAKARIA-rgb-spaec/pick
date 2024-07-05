@@ -168,7 +168,6 @@ Mission : Contrôle du Robot et Planification de Trajectoire
 
 Développement des algorithmes de planification de trajectoire : Calculer les trajectoires optimales pour les mouvements du robot.
 Configuration du robot : Configurer le robot UR5e avec les capteurs et les actionneurs nécessaires.
-Implémentation des scripts de contrôle : Développer les scripts pour la communication et le contrôle du robot.
 
 - **Superviseur : Dr. A. Rahmani**
 
@@ -179,9 +178,7 @@ Pour installer toutes les dépendances nécessaires à ce projet, veuillez utili
 ```sh
 pip install -r requirements.txt
 ```
-## Références
 
-Pour plus de détails, veuillez consulter les rapport complet  : [Rapport_ECL_Zakaria_Midine.pdf](https://online.publuu.com/571615/1283441)
 
 
 
